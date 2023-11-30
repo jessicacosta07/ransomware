@@ -16,6 +16,6 @@ There are several different entry points for ransomware to infect your computer.
 2. Screen lockers
 3. Encryption ransomware
 
-References 
+### References 
 
 https://br.malwarebytes.com/ransomware/
